@@ -5,5 +5,6 @@ public class PCRegisterTest {
         int c = 3;
         int d = 4;
         int e = c + d;
+        Boolean aBoolean = new Boolean(true);
     }
 }
